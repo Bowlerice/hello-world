@@ -1,5 +1,9 @@
 # hello-world
 
+A newborn coder says hello to the world before him
+
+And the World smiled back at him.
+
 09/15/20
 
 Hello future me, or anyone stumbling upon this repository.
@@ -12,3 +16,4 @@ Things are going to become ACADEMIC in this bedroom.
 
 Cheers,
 - A Bowl erh Rice
+
