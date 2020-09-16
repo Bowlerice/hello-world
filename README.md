@@ -15,5 +15,5 @@ I have yet to fully commit to learning, doing the readings, and completing the a
 Things are going to become ACADEMIC in this bedroom.
 
 Cheers,
-- A Bowl erh Rice
+- A Bowl-erh-Rice
 
